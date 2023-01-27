@@ -1,4 +1,4 @@
-# Contador-de-monedas
+# contador_de_monedas
 Proyecto contador de monedas, imagen estática, con openCV en python 
 el archivo contornos es la familiarización con la detección de contornos 
 en el archivo contador_monedas realizo los pasos de eliminar el ruido de una imagen
